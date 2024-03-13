@@ -8,4 +8,16 @@ Tanggal dan tahun lahirmu
 kupelajari rasi bintang menebak pribadimu
 
 Tokoh kartun favoritmu
+<<<<<<< HEAD
 Dan warna kegemaranmu
+=======
+<<<<<<< HEAD
+Dan warna kegemaranmu
+<<<<<<< HEAD
+=======
+Dan warna kegemaranmu
+>>>>>>> 628c704186d81e46b41739db993a26df9533fee2
+=======
+
+>>>>>>> 9755c12340670e7109e5924828f1efc9e79b62fe
+>>>>>>> 979361ce85007a9ad6e09aab96ea3bdab7422de0
